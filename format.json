@@ -1,0 +1,59 @@
+{
+    "members": [
+        {
+            "memberId": 80,
+            "name": "최우영",
+            "birthday": "19881212",
+            "phoneNo": "01033873349",
+            "department": "안양점",
+            "jobClass": "사원",
+            "jobRole": "센터장",
+            "sosokId": 13,
+            "etc": ""
+        },
+        {
+            "memberId": 81,
+            "name": "김현국",
+            "birthday": "19880119",
+            "phoneNo": "01097661237",
+            "department": "용인점",
+            "jobClass": "사원",
+            "jobRole": "센터장",
+            "sosokId": 11,
+            "etc": ""
+        },
+        {
+            "memberId": 82,
+            "name": "김향지",
+            "birthday": "19820708",
+            "phoneNo": "01030250523",
+            "department": "강남점",
+            "jobClass": "사원",
+            "jobRole": "센터장",
+            "sosokId": 8,
+            "etc": ""
+        },
+        {
+            "memberId": 83,
+            "name": "양지영",
+            "birthday": "19761012",
+            "phoneNo": "01085314926",
+            "department": "강남점",
+            "jobClass": "사원",
+            "jobRole": "센터장",
+            "sosokId": 8,
+            "etc": ""
+        },
+        {
+            "memberId": 84,
+            "name": "안혜령",
+            "birthday": "19831017",
+            "phoneNo": "01031471741",
+            "department": "강남점",
+            "jobClass": "사원",
+            "jobRole": "센터장",
+            "sosokId": 8,
+            "etc": ""
+        }
+    ]
+}

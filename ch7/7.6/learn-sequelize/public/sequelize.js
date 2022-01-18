@@ -25,7 +25,7 @@ async function getUser() {
       td = document.createElement('td');
       td.textContent = user.name;
       row.appendChild(td);
-      td = document.createElement('td');
+      td = document.createElement('td');  
       td.textContent = user.age;
       row.appendChild(td);
       td = document.createElement('td');

@@ -1,0 +1,26 @@
+{
+    "members": [
+        {
+            "memberId": 240, // 아이디
+            "name": "홍길동", // 이름
+            "birthday": "20211201", // 생년월일
+            "phoneNo": "01000020003", // 핸드폰 번호
+            "department": "마케팅팀", // 부서
+            "jobClass": "사원",
+            "jobRole": "사원",
+            "sosokId": 30, // 매장 아이디
+            "etc": ""
+        },
+        {
+            "memberId": 241,
+            "name": "bbbbb",
+            "birthday": "20211201",
+            "phoneNo": "01000020003",
+            "department": "ㅁㅁ",
+            "jobClass": "사원",
+            "jobRole": "사원",
+            "sosokId": 30,
+            "etc": ""
+        }
+    ]
+}
